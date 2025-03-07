@@ -7,7 +7,7 @@
 📸 Hobbies: Photography, Wildlife Exploration, and Traveling  
 📫 Let's connect! [GitHub](https://github.com/vinukab)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinukab&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinukab&show_icons=true&theme=github_dark)
 
 
 
