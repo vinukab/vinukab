@@ -10,7 +10,7 @@
 
 
 
-- 💻 Computer Science & Engineering undergraduate at the University of Moratuwa  <br>
+- 💻 Computer Science & Engineering undergraduate at the University of Moratuwa, Sri Lanka  <br>
 - 🚀 Tech enthusiast | Passionate about learning new technologies  <br>
 - 📌 Interested in Web Development, AI, and Software Engineering  <br>
 - 🔧 Exploring new projects and contributing to open source  <br>
